@@ -1,0 +1,26 @@
+
+img {
+  width: 100%;
+  max-width: 500px;
+}
+
+.nope {
+  color : #FFAA00;
+}
+
+.name {
+  color : #f442f1;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+heart {
+  
+}
+
+body {
+  background-color : #292929;
+}
